@@ -1,4 +1,4 @@
-# pyBAT: Bus line Analysis Toolkit
+# pyBAT
 ![alt text](https://github.com/DaviddeZea/pyBAT/blob/main/docs/logo2.png)
 
 BAT is an open-source software to analyse bus networks through the combination of a data-driven approach and specific knowledge on bus systems from AVL data. Transit operators, researchers and practitioners alike may benefit from our contribution which fills a gap in the lack of open-source alternatives to specifically analyse bus lines. Through geospatial analysis of data, relevant KPIs, descriptive and forecasting tools are provided to properly manage historical data with a view to better manage and plan bus operations.
